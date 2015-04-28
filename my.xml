@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<catogary>
+<new>
+<title>Qison </title>
+<employee> Venkatesh </employee>
+<designation> TSE </designation>
+<salary> 12000 </salary>
+</new>
+<new>
+<title>IBM </title>
+<employee> Shekar </employee>
+<designation> ASE </designation>
+<salary> 20000 </salary>
+</new>
+<new>
+<title>TCS</title>
+<employee> Vinay Kumar </employee>
+<designation> SE </designation>
+<salary> 18000 </salary>
+</new>
+<new>
+<title>Wipro</title>
+<employee> Rajesh </employee>
+<designation> TE </designation>
+<salary> 10000</salary>
+</new>
+  <new>
+    <title>CapGemini</title>
+    <employee>Srikanth</employee>
+    <designation> ASE </designation>
+    <salary>50000</salary>
+  </new>
+  <new>
+    <title>ADP</title>
+    <employee> Prakash </employee>
+    <designation> SE </designation>
+    <salary> 30000</salary>
+  </new>
+  <new>
+    <title>Infosys</title>
+    <employee> Sagar </employee>
+    <designation> SE </designation>
+    <salary> 15000</salary>
+  </new>
+  <new>
+    <title>HCL</title>
+    <employee> Prasad </employee>
+    <designation> TSE </designation>
+    <salary>12000</salary>
+  </new>
+  <new>
+    <title>CTS</title>
+    <employee> Ravi </employee>
+    <designation> ASE </designation>
+    <salary>20000</salary>
+  </new>
+  <new>
+    <title>MAQ Software</title>
+    <employee> Naveen </employee>
+    <designation> SE </designation>
+    <salary>30000</salary>
+  </new>
+  <new>
+    <title>Qualcomm</title>
+    <employee> Anil </employee>
+    <designation> TE </designation>
+    <salary>25000</salary>
+  </new>
+  <new>
+    <title>Mcdonald</title>
+    <employee> Kumar </employee>
+    <designation> AE </designation>
+    <salary>35000</salary>
+  </new>
+</catogary>

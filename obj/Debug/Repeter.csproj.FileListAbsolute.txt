@@ -1,0 +1,4 @@
+D:\My Traing Examples\Repeter\Repeter\bin\Repeter.dll
+D:\My Traing Examples\Repeter\Repeter\bin\Repeter.pdb
+D:\My Traing Examples\Repeter\Repeter\obj\Debug\Repeter.dll
+D:\My Traing Examples\Repeter\Repeter\obj\Debug\Repeter.pdb
